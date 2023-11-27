@@ -1,0 +1,133 @@
+.section-2 {
+  position: relative;
+  padding: 2rem 0 8.5rem;
+}
+.section-2 .wrapper-content {
+  margin: 0 auto;
+  position: relative;
+  width: 126.9rem;
+  height: 713px;
+
+  padding-top: 8.1rem;
+  overflow: hidden;
+  background-color: #aab7df;
+}
+.content-sct2 {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  width: 68.7rem;
+}
+.content-sct2 h2 {
+  color: #311b61;
+  font-family: Dosis;
+  font-size: 4.8rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 3.84px;
+}
+.content-sct2 span {
+  color: #f8ccda;
+  font-family: Dosis;
+  font-size: 4.8rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 3.84px;
+}
+.content-sct2 p {
+  color: #311b61;
+  font-family: Dosis;
+  font-size: 3.6rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2.88px;
+}
+
+.bnt-buy {
+  color: #311b61;
+  font-family: Dosis;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 2.88px;
+  text-transform: uppercase;
+
+  border-radius: 15px;
+  border-style: none;
+  background: #f8ccda;
+
+  display: flex;
+  padding: 2.1rem 6rem;
+  justify-content: center;
+  align-items: center;
+  width: 29rem;
+}
+
+.content-sct2 a {
+  color: rgba(49, 27, 97, 0.5);
+  font-family: Dosis;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 1.28px;
+  text-decoration: none;
+}
+
+.eclipse {
+  position: absolute;
+  width: 858px;
+  height: 817px;
+  border-radius: 50%;
+  background: #f8ccda;
+  box-shadow: -23px 4px 37px 0px rgba(0, 0, 0, 0.25);
+
+  right: -10%;
+  top: 5%;
+}
+.woman-lips {
+  position: absolute;
+  right: 0;
+}
+.title-container .title {
+  color: #d3def1;
+  font-family: Dosis;
+  font-size: 4rem;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 2.4px;
+}
+.title-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5rem;
+  margin-bottom: 2rem;
+}
+.section-2 .line {
+  width: 298px;
+  height: 4px;
+  background: #d3def1;
+}
+
+.flower-1 {
+  position: absolute;
+  top: 0px;
+  left: -180px;
+}
+
+.flower-2 {
+  position: absolute;
+  transform: rotate(-160.731deg);
+  top: -150px;
+  right: -150px;
+}
+.wrapper-wrapper-content {
+  position: relative;
+  width: min-content;
+  margin: 0 auto;
+}

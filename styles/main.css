@@ -1,0 +1,203 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  font-size: 65.5%;
+}
+body {
+  background: #d86d6e;
+}
+.hero {
+  height: 100vh;
+}
+.hero .container {
+  height: 100%;
+}
+.container {
+  position: relative;
+  max-width: 114rem;
+  margin: 0 auto;
+}
+header {
+  display: flex;
+  justify-content: center;
+  color: hsl(355, 37%, 93%);
+  font-family: Dosis;
+  font-size: 2.4rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.content-header {
+  display: flex;
+  align-items: center;
+  gap: 5rem;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  padding-right: 32.7rem;
+  font-family: Jacques Francois;
+}
+.information {
+  display: flex;
+  align-items: center;
+  gap: 5rem;
+}
+
+.content-hero {
+  display: flex;
+  flex-direction: column;
+  width: 49.5rem;
+  max-width: 100%;
+  gap: 3rem;
+  margin-top: 19.2rem;
+}
+.content-hero h1 {
+  color: #f4e7e8;
+  font-family: Jacques Francois;
+  font-size: 4rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2.4px;
+}
+.content-hero h3 {
+  color: #f4e7e8;
+  font-family: Roboto;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: normal;
+}
+.content-hero .know-us {
+  width: 18.4rem;
+  max-width: 100%;
+
+  border-radius: 38px;
+  background: none;
+  border: 3px solid #fff;
+  display: flex;
+  padding: 1.5rem 3rem;
+  justify-content: center;
+  align-items: center;
+
+  color: #f4e7e8;
+  font-family: Jacques Francois;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2.4px;
+}
+.woman-hero-background {
+  width: 101.4rem;
+  position: absolute;
+  right: -30%;
+  bottom: 0;
+}
+.service-banner {
+  display: flex;
+  height: 8.9rem;
+  align-items: center;
+  background-color: #ecb8ba;
+  color: #401c2a;
+  font-family: Dosis;
+  font-size: 1.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.service-banner .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3.2rem;
+}
+
+.call {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.delivery {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+.certificate {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+/* SECTION 1 */
+.section-1 {
+  padding: 2rem 0;
+}
+.section-1 .container {
+  display: flex;
+  gap: 3.3rem;
+}
+.content-sct1 {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  width: 50.1rem;
+  max-width: 100%;
+  color: #f4e7e8;
+  font-family: Dosis;
+}
+.content-sct1 h2 {
+  font-size: 6.4rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.content-sct1 span {
+  background: linear-gradient(90deg, #d3def1 3.73%, #aab7df 51.71%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.content-sct1 p {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.bnt-skin-care {
+  color: #f4e7e8;
+  font-family: Dosis;
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+
+  border-radius: 8px;
+  border: 1px solid #e00047;
+  background: #e00047;
+  display: flex;
+  padding: 1.4rem 4rem;
+  justify-content: center;
+  align-items: center;
+
+  width: 15.5rem;
+}
+
+.img-skin-care {
+  object-fit: cover;
+  width: 75.4rem;
+  height: 50.2rem;
+  margin-right: -150px;
+}
+
+/* SECTION-2*/
