@@ -1,0 +1,35 @@
+
+.section-5 .wrapper-content {
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 3.0rem;
+  width: 113rem;
+  max-width: 100%;
+  margin-bottom: 3.6rem;
+  background-color: #f8ccda;
+  border-radius: 20px;
+  border-left: 6px solid #401c2a;
+  padding: 3.2rem 2.9rem 7.4rem 2.9rem;
+  backdrop-filter: blur(10px);
+  
+}
+.section-5 .wrapper-content p {
+  color: #401c2a;
+  font-family: Dosis;
+  font-size: 3.2rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 1.92px;
+}
+
+.card-advantage {
+  display: flex;
+  gap: 3rem;
+  display: flex;
+  padding: 0.7rem 2.7rem 3.4rem 2.8rem;
+  margin: 0 auto;
+  width: fit-content;
+}

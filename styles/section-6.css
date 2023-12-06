@@ -1,0 +1,150 @@
+.section-6 {
+  background-color: #fff8f8;
+  position: relative;
+  height: 639px;
+}
+
+.content-sct6 {
+  display: flex;
+  flex-direction: column;
+  width: 58.5rem;
+  background-color: #f4e7e8;
+  padding: 30px 30px 32px 31px;
+}
+
+.content-sct6 h2 {
+  color: #000;
+  font-family: Dosis;
+  font-size: 6.4rem;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 3.84px;
+  text-transform: uppercase;
+}
+.content-sct6 h3 {
+  color: #000;
+  font-family: Dosis;
+  font-size: 2.4rem;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 1.44px;
+  text-transform: uppercase;
+}
+
+.content-sct6 p {
+  color: #000;
+  font-family: Dosis;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: 300;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+}
+.bnt-know-us {
+  display: flex;
+  padding: 10px 20px;
+  width: fit-content;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  border: none;
+  background: #401c2a;
+
+  color: #f4e7e8;
+  font-family: Dosis;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 1.92px;
+  text-transform: uppercase;
+}
+
+.woman-team {
+  margin-top: 2rem;
+  position: absolute;
+}
+.content-sct6 {
+  float: right;
+  margin-top: 11.3rem;
+}
+.banner-contact-us {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+  justify-content: center;
+  padding: 0.7rem;
+
+  background: #ecb8ba;
+}
+
+.banner-contact-us p {
+  color: #401c2a;
+  font-family: Dosis;
+  font-size: 3.6rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 2.16px;
+}
+.know-more {
+  background: #401c2a;
+  display: flex;
+  padding: 5.8rem 21.3rem;
+  /* flex-direction: column; */
+ 
+  text-align: center;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+.know-more .container {
+  display: flex;
+  flex-direction: column;
+ align-items: center;
+  gap: 1.8rem;
+}
+
+.know-more h3 {
+  color: #f4e7e8;
+  font-family: Dosis;
+  font-size: 4.8rem;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 2.88px;
+  text-transform: uppercase;
+  
+}
+
+.know-more h4 {
+  color: #f4e7e8;
+  font-family: Dosis;
+  font-size: 2.4rem;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 1.44px;
+  text-transform: capitalize;
+}
+
+.bnt-know-more {
+  color: #401c2a;
+  font-family: Dosis;
+  font-size: 3.6rem;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 2.16px;
+  text-transform: capitalize;
+
+  display: flex;
+  padding: 2.0rem 3.2rem;
+  justify-content: center;
+  align-items: center;
+  gap: 1.0rem;
+  width: fit-content;
+  margin: 0 auto;
+
+
+  border: none;
+  border-radius: 0.8rem;
+  background: #f4e7e8;
+  
+}

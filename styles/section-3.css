@@ -1,0 +1,104 @@
+.section-3 {
+  position: relative;
+  padding: 2rem 0 8.5rem;
+}
+
+.section-3 .wrapper-content {
+  margin: 0 auto;
+  position: relative;
+  width: 126.9rem;
+  height: 713px;
+
+  padding-top: 8.1rem;
+  overflow: hidden;
+  background-color: #aab7df;
+}
+
+.content-sct3 {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+
+  float: right;
+  gap: 3rem;
+  width: 68.7rem;
+}
+.content-sct3 h2 {
+  color: #311b61;
+  font-family: Dosis;
+  font-size: 4.8rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 3.84px;
+}
+
+.content-sct3 .flushed {
+  color: #fdc8ab;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 3.84px;
+}
+.content-sct3 .soft {
+  color: #f8ca1f;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 3.84px;
+}
+
+.content-sct3 p {
+  color: #311b61;
+  font-family: Dosis;
+  font-size: 3.6rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 2.88px;
+}
+
+.content-sct3 a {
+  color: rgba(49, 27, 97, 0.5);
+  font-family: Dosis;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 1.28px;
+  text-decoration: none;
+}
+.content-sct3 .bnt-buy {
+  background: rgba(248, 202, 31, 0.8);
+  color: #311b61;
+  
+  font-family: Dosis;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 2.88px;
+  text-transform: uppercase;
+
+  display: flex;
+  margin-left: 390px;
+  padding: 2.1rem 6rem;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  border-style: none;
+}
+.eclipse-flushed {
+  position: absolute;
+  width: 890px;
+  height: 889px;
+  border-radius: 9999px;
+  background: #fbd0b6;
+  box-shadow: 14px 4px 32px 0px rgba(0, 0, 0, 0.25);
+
+  top: -10%;
+  left: -15%;
+}
+.woman-flushed {
+  position: absolute;
+}

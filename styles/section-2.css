@@ -46,7 +46,7 @@
   letter-spacing: 2.88px;
 }
 
-.bnt-buy {
+.content-sct2 .bnt-buy {
   color: #311b61;
   font-family: Dosis;
   font-size: 36px;
@@ -78,7 +78,7 @@
   text-decoration: none;
 }
 
-.eclipse {
+.eclipse-lips {
   position: absolute;
   width: 858px;
   height: 817px;
@@ -107,8 +107,9 @@
   justify-content: center;
   gap: 5rem;
   margin-bottom: 2rem;
+  margin-top: 2.0rem;
 }
-.section-2 .line {
+ .line {
   width: 298px;
   height: 4px;
   background: #d3def1;

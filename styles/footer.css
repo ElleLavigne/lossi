@@ -1,0 +1,102 @@
+.footer {
+  background-color: #dbc3bd;
+  height:;
+}
+.footer-content {
+  width: 45.1rem;
+  margin-left: 19.6rem;
+  border: 1px solid red;
+}
+
+.footer h3 {
+  color: #311b61;
+  font-family: Dosis;
+  font-size: 4.8rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.footer p {
+  color: #311b61;
+  font-family: Dosis;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.name {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.name h4 {
+  color: #311b61;
+  font-family: Dosis;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+.email {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.email h4 {
+  color: #311b61;
+  font-family: Dosis;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+.footer .container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  /* gap: 3rem; */
+}
+.campo {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-left: 5.1rem;
+  width: fit-content;
+ 
+}
+form input {
+  border-radius: 5px;
+  border: none;
+  background: #e8eef8;
+
+  width: 277px;
+  height: 30px;
+}
+
+.bnt-confirm {
+  border-radius: 5px;
+  background: none;
+  border: 1px solid #311b61;
+
+  display: flex;
+  padding: 10px 40px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 1rem;
+  margin: 0 auto;
+
+  color: #311b61;
+  font-family: Dosis;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+.plant {
+  position: absolute;
+  width: 143px;
+}

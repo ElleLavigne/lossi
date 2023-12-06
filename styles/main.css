@@ -12,6 +12,24 @@ body {
 .hero {
   height: 100vh;
 }
+.banner-promotion {
+  display: flex;
+  background-color: #ecb8ba;
+}
+.banner-promotion h4 {
+  margin: 0 auto;
+  background: linear-gradient(180deg, #401c2a 0%, #e00047 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Dosis;
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  padding: 0.5rem 0;
+}
 .hero .container {
   height: 100%;
 }
@@ -93,10 +111,10 @@ header {
   letter-spacing: 2.4px;
 }
 .woman-hero-background {
-  width: 101.4rem;
+  width: 101rem;
   position: absolute;
   right: -30%;
-  bottom: 0;
+  bottom: 3%;
 }
 .service-banner {
   display: flex;
